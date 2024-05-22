@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@globalCss/*": ["./src/styles/*"]
+    }
+  }
+}
